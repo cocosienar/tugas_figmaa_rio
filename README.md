@@ -3,8 +3,7 @@
 
 
 
-Deskripsi singkat tentang proyek Anda. Apa yang dilakukan proyek ini? Mengapa proyek ini penting?
-
+Ini merupakan tugas yang diberikan, lalu dikumpulkan pada senin, 27 mei 2024
 ## **📌 Fitur Utama**
 
 - ✨ Fitur 1 yang keren
