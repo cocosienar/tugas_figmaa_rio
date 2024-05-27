@@ -11,5 +11,5 @@ Ini merupakan tugas yang diberikan, lalu dikumpulkan pada senin, 27 mei 2024
 - 🔒 Fitur 3 yang aman
 - 📈 Fitur 4 yang efisien
 
-## **CRATE BY RIO ADITYA MUKTI*
+## *CRATE BY RIO ADITYA MUKTI*
 
